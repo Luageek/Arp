@@ -1,0 +1,24 @@
+{
+  "commands": [
+    {
+      "command": "/e g-1",
+      "moduleId": 4513235536,
+      "functionName": "G"
+    },
+    {
+      "command": "/e lol",
+      "moduleId": 4513235536,
+      "functionName": "lol"
+    }
+  ],
+  "scommands": [
+    {
+      "command": "/e hi",
+      "action": "createPart"
+    },
+    {
+      "command": "/e welcome",
+      "action": "movePlayer"
+    }
+  ]
+}
